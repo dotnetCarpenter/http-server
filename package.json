@@ -62,9 +62,9 @@
     }
   ],
   "dependencies": {
-    "colors": "1.0.3",
+    "colors": "^1.1.0",
     "corser": "~2.0.0",
-    "ecstatic":"dotnetCarpenter/node-ecstatic",
+    "ecstatic": "dotnetCarpenter/node-ecstatic",
     "http-proxy": "^1.8.1",
     "opener": "~1.4.0",
     "optimist": "0.6.x",
@@ -72,9 +72,9 @@
     "union": "~0.4.3"
   },
   "devDependencies": {
-    "request": "2.49.x",
-    "stylezero": "2.2.0",
-    "vows": "0.7.x"
+    "request": "^2.55.0",
+    "stylezero": "^2.2.0",
+    "vows": "^0.8.1"
   },
   "bugs": {
     "url": "https://github.com/nodeapps/http-server/issues"
