@@ -1,4 +1,5 @@
 # http-server: a command-line http server
+[![build status](https://secure.travis-ci.org/indexzero/http-server.png)](http://travis-ci.org/indexzero/http-server) [![dependencies status](https://david-dm.org/indexzero/http-server.svg)](https://david-dm.org/indexzero/http-server)
 
 `http-server` is a simple, zero-configuration command-line http server.  It is powerful enough for production usage, but it's simple and hackable enough to be used for testing, local development, and learning.
 
